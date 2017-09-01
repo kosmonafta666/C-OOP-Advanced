@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\bin\Debug\Work Force.exe.config
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\bin\Debug\Work Force.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\bin\Debug\Work Force.pdb
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\obj\Debug\Work Force.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\obj\Debug\Work Force.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Work Force\obj\Debug\Work Force.pdb

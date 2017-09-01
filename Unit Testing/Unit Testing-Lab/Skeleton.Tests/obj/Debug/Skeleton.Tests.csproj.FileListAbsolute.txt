@@ -1,0 +1,14 @@
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Skeleton.Tests.dll
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Skeleton.Tests.pdb
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\nunit.framework.dll
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\nunit.framework.xml
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.dll
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.pdb
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Skeleton.exe
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Skeleton.pdb
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Skeleton.exe.config
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Castle.Core.dll
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Moq.dll
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Moq.pdb
+D:\SoftUNI\C# OOP Advanced\Unit Testing\Unit Testing-Lab\Skeleton.Tests\bin\Debug\Moq.xml

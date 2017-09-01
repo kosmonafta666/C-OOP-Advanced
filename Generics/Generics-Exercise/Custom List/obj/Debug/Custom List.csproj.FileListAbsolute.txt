@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\bin\Debug\Custom List.exe.config
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\bin\Debug\Custom List.exe
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\bin\Debug\Custom List.pdb
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\obj\Debug\Custom List.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\obj\Debug\Custom List.exe
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Exercise\Custom List\obj\Debug\Custom List.pdb

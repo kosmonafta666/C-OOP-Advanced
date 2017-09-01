@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\bin\Debug\Generic Box.exe.config
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\bin\Debug\Generic Box.exe
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\bin\Debug\Generic Box.pdb
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\obj\Debug\Generic Box.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\obj\Debug\Generic Box.exe
+D:\SoftUNI\C# OOP Advanced\Generics\Generics-Lab\Generic Box\obj\Debug\Generic Box.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\bin\Debug\Military Elite.exe.config
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\bin\Debug\Military Elite.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\bin\Debug\Military Elite.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\obj\Debug\Military Elite.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\obj\Debug\Military Elite.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Military Elite\obj\Debug\Military Elite.pdb

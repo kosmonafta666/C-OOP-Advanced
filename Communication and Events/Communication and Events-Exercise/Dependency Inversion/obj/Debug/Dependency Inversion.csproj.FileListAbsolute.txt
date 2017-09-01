@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\obj\Debug\Dependency Inversion.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Dependency Inversion\obj\Debug\Dependency Inversion.pdb

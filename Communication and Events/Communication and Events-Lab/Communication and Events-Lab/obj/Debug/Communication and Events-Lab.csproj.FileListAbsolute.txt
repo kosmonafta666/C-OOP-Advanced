@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\bin\Debug\Communication and Events-Lab.exe.config
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\bin\Debug\Communication and Events-Lab.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\bin\Debug\Communication and Events-Lab.pdb
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\obj\Debug\Communication and Events-Lab.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\obj\Debug\Communication and Events-Lab.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Lab\Communication and Events-Lab\obj\Debug\Communication and Events-Lab.pdb

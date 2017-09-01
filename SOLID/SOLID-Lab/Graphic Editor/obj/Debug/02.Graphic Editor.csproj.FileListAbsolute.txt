@@ -1,0 +1,5 @@
+D:\SoftUNI\C# OOP Advanced\SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe.config
+D:\SoftUNI\C# OOP Advanced\SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe
+D:\SoftUNI\C# OOP Advanced\SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.pdb
+D:\SoftUNI\C# OOP Advanced\SOLID\02.Graphic Editor\obj\Debug\02.Graphic Editor.exe
+D:\SoftUNI\C# OOP Advanced\SOLID\02.Graphic Editor\obj\Debug\02.Graphic Editor.pdb

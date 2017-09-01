@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\bin\Debug\Attributes.exe.config
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\bin\Debug\Attributes.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\bin\Debug\Attributes.pdb
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\obj\Debug\Attributes.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\Attributes\obj\Debug\Attributes.pdb

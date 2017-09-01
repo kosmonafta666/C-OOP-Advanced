@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\bin\Debug\Hell.exe.config
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\bin\Debug\Hell.exe
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\bin\Debug\Hell.pdb
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\obj\Debug\Hell.exe
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell\obj\Debug\Hell.pdb

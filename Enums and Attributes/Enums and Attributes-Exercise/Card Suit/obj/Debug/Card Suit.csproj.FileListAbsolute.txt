@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\bin\Debug\Card Suit.exe.config
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\bin\Debug\Card Suit.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\bin\Debug\Card Suit.pdb
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\obj\Debug\Card Suit.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\obj\Debug\Card Suit.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Suit\obj\Debug\Card Suit.pdb

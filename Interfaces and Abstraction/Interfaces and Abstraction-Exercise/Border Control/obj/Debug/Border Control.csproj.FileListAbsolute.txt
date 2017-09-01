@@ -1,0 +1,12 @@
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\bin\Debug\Border Control.exe.config
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\bin\Debug\Border Control.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\bin\Debug\Border Control.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\obj\Debug\Border Control.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\obj\Debug\Border Control.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction\Border Control\obj\Debug\Border Control.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\bin\Debug\Border Control.exe.config
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\bin\Debug\Border Control.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\bin\Debug\Border Control.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\obj\Debug\Border Control.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\obj\Debug\Border Control.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Border Control\obj\Debug\Border Control.pdb

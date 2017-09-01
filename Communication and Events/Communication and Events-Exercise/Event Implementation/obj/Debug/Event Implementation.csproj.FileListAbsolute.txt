@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\obj\Debug\Event Implementation.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\bin\Debug\Event Implementation.exe.config
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\bin\Debug\Event Implementation.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\bin\Debug\Event Implementation.pdb
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\obj\Debug\Event Implementation.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Event Implementation\obj\Debug\Event Implementation.pdb

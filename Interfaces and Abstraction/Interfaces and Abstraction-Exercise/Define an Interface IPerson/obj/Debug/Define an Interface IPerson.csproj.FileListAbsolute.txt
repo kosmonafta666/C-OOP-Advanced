@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.exe.config
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\obj\Debug\Define an Interface IPerson.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\obj\Debug\Define an Interface IPerson.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Define an Interface IPerson\obj\Debug\Define an Interface IPerson.pdb

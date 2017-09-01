@@ -1,0 +1,11 @@
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.deps.json
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.json
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.dev.json
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.dll
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.pdb
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.Resources.Vars.resources
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csproj.GenerateResource.Cache
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.AssemblyInfo.cs
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.dll
+D:\SoftUNI\C# OOP Advanced\Workshop\Workshop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.pdb

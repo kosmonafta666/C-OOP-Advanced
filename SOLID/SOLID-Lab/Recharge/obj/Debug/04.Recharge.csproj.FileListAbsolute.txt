@@ -1,0 +1,7 @@
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\bin\Debug\04.Recharge.dll
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\bin\Debug\04.Recharge.pdb
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\bin\Debug\nunit.framework.dll
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\bin\Debug\nunit.framework.xml
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\obj\Debug\04.Recharge.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\obj\Debug\04.Recharge.dll
+D:\SoftUNI\C# OOP Advanced\SOLID\SOLID-Lab\Recharge\obj\Debug\04.Recharge.pdb

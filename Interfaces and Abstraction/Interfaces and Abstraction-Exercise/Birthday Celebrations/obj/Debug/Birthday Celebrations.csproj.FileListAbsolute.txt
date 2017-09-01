@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\bin\Debug\Birthday Celebrations.exe.config
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\bin\Debug\Birthday Celebrations.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\bin\Debug\Birthday Celebrations.pdb
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\obj\Debug\Birthday Celebrations.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\obj\Debug\Birthday Celebrations.exe
+D:\SoftUNI\C# OOP Advanced\Interfaces and Abstraction\Interfaces and Abstraction-Exercise\Birthday Celebrations\obj\Debug\Birthday Celebrations.pdb

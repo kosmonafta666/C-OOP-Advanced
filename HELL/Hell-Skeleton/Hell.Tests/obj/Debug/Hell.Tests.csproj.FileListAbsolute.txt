@@ -1,0 +1,10 @@
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.Tests.dll
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.Tests.pdb
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.exe
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\nunit.framework.dll
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.pdb
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\Hell.exe.config
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\bin\Debug\nunit.framework.xml
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.dll
+D:\SoftUNI\C# OOP Advanced\HELL\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\bin\Debug\SoftUniInjector.exe.config
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\bin\Debug\SoftUniInjector.exe
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\bin\Debug\SoftUniInjector.pdb
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\obj\Debug\SoftUniInjector.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\obj\Debug\SoftUniInjector.exe
+D:\SoftUNI\C# OOP Advanced\Workshop\SoftUniInjector\SoftUniInjector\obj\Debug\SoftUniInjector.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\bin\Debug\WeekDay.exe.config
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\bin\Debug\WeekDay.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\bin\Debug\WeekDay.pdb
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\obj\Debug\WeekDays.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\obj\Debug\WeekDay.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Lab\WeekDay\obj\Debug\WeekDay.pdb

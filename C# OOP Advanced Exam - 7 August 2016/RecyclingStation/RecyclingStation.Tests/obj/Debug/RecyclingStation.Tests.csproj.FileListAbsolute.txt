@@ -1,0 +1,10 @@
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.Tests.dll
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.Tests.pdb
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\nunit.framework.dll
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.exe
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.pdb
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.exe.config
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\bin\Debug\nunit.framework.xml
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.dll
+D:\SoftUNI\C# OOP Advanced\C# OOP Advanced Exam - 7 August 2016\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.pdb

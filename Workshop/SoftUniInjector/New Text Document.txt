@@ -1,0 +1,14 @@
+User service called!
+User service calls user repo
+User repo called!
+User repo calling payment repo
+Payment repo called!
+User repo also calling also softuni repo
+Softuni repo called!
+Softuni repo tries to call payment repo
+Payment repo called!
+User service calls also soft uni repo
+Softuni repo called!
+Softuni repo tries to call payment repo
+Payment repo called!
+Press any key to continue . . .

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\bin\Debug\01.Stream Progress.exe.config
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\bin\Debug\01.Stream Progress.exe
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\bin\Debug\01.Stream Progress.pdb
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\obj\Debug\01.Stream Progress.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\obj\Debug\01.Stream Progress.exe
+D:\SoftUNI\C# OOP Advanced\SOLID\01.Stream Progress\obj\Debug\01.Stream Progress.pdb

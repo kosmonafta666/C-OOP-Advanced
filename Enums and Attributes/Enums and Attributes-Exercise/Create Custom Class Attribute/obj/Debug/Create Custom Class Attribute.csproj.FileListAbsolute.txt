@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.exe.config
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.pdb
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\obj\Debug\Create Custom Class Attribute.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\obj\Debug\Create Custom Class Attribute.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Create Custom Class Attribute\obj\Debug\Create Custom Class Attribute.pdb

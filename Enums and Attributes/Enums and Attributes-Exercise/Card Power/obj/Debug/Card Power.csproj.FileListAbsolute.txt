@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\bin\Debug\Card Power.exe.config
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\bin\Debug\Card Power.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\bin\Debug\Card Power.pdb
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\obj\Debug\Card Power.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\obj\Debug\Card Power.exe
+D:\SoftUNI\C# OOP Advanced\Enums and Attributes\Enums and Attributes-Exercise\Card Power\obj\Debug\Card Power.pdb

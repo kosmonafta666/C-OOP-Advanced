@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\bin\Debug\Mission Private Impossible.exe.config
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\bin\Debug\Mission Private Impossible.exe
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\bin\Debug\Mission Private Impossible.pdb
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\obj\Debug\Mission Private Impossible.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\obj\Debug\Mission Private Impossible.exe
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\Mission Private Impossible\obj\Debug\Mission Private Impossible.pdb

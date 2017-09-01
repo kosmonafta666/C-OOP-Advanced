@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\bin\Debug\High Quality Mistakes.exe.config
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\bin\Debug\High Quality Mistakes.exe
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\bin\Debug\High Quality Mistakes.pdb
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\obj\Debug\High Quality Mistakes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\obj\Debug\High Quality Mistakes.exe
+D:\SoftUNI\C# OOP Advanced\Reflection\Reflection-Lab\High Quality Mistakes\obj\Debug\High Quality Mistakes.pdb

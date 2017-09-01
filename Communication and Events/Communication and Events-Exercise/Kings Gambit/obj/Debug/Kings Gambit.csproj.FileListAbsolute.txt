@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\bin\Debug\Kings Gambit.exe.config
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\bin\Debug\Kings Gambit.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\bin\Debug\Kings Gambit.pdb
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\obj\Debug\Kings Gambit.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\obj\Debug\Kings Gambit.exe
+D:\SoftUNI\C# OOP Advanced\Communication and Events\Communication and Events-Exercise\Kings Gambit\obj\Debug\Kings Gambit.pdb

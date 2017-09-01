@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\bin\Debug\Stack.exe.config
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\bin\Debug\Stack.exe
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\bin\Debug\Stack.pdb
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\obj\Debug\Stack.exe
+D:\SoftUNI\C# OOP Advanced\Iterators and Comparators\Iterators and Comparators-Exercise\Stack\obj\Debug\Stack.pdb
